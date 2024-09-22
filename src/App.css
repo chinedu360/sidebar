@@ -1,0 +1,16 @@
+.nav-div {
+  background-color: #f3f3f3;
+  padding: 10px 8px;
+  border-radius: 8px;
+}
+
+.nav-h2 {
+  color: #bcbcbc;
+  font-size: 16px;
+}
+
+.nav-li {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
